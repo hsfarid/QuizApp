@@ -1,5 +1,5 @@
 .quiz-form {
-  background-color: blue;
+  background-color: rgb(138, 138, 233);
   padding: 30px 60px;
   color: white;
 }
@@ -21,6 +21,11 @@ h1 {
   cursor: pointer;
   border: none;
   border-radius: 4px;
+  background-color: coral;
+  color: white;
+}
+.submit-btn:hover {
+  background-color: rgba(255, 127, 80, 0.676);
 }
 .score-screen {
   text-align: center;
